@@ -1,5 +1,5 @@
 # KSA
-my final project in KSA
+# Disclaimer: No copyright has intended for use of other materials. This will use for educational purposes.
 
-my final project are uploaded in this website
+My final project are uploaded in this website
 https://ksaproject2.000webhostapp.com
